@@ -5,7 +5,7 @@ This is a guide for anyone who's travelling to Japan and is planning their trips
 **Note that some files are not yet localized**
 
 ## August's credentials
-- Lived in Japan for 1 year (yeah, weak I know but still)
+- Lived in Osaka, Japan for 1 year (yeah, weak I know but still)
 - Speaks fluent japanese
 - Travelled extensively in Japan
 - Part-time freelanced as a food reviewer in Japan
