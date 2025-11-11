@@ -90,9 +90,9 @@ August's recommended order (might be omitted in generic cases)
 
 
 
-## Calligraphy & Remebering Your Dishes
+## Calligraphy & Remembering Your Dishes
 
-Some restaurants, especially traditional & izakaya, will have most of their menu in japanese in stylized japanese calligraphy which can make it difficult to read or translate through an app. As such, I'd recommend writing down the names of the dishes and/or ingredients you try and like so that you can ask for them
+Some restaurants, especially traditional & izakaya, will have most of their menu in japanese in stylized japanese calligraphy which can make it difficult to read or translate through an app. As such, I'd recommend writing down the names of the dishes and/or ingredients you try and like so that you can ask for them.
 
 
 
