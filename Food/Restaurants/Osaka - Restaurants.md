@@ -59,6 +59,8 @@
 
 * [Caffé Ciao Presso](https://maps.app.goo.gl/HyQjuoEfg7YSv6wo6) - Typical Japanese chain café but with a very nice view over downtown (Tennouji/Shinsekai). Reasonable prices. Go here if you're in the area and don't want anything specific.
 * [Paris-h](https://maps.app.goo.gl/jbYV3gyRv6fKAaEA7) - French/bread-y pastries. No seats in-house but near Tosahori river/Nakanoshima Banks walk where there are seats.
+* [Starbucks - Namba SkyO](https://maps.app.goo.gl/Mu9Mt6uLrN2VsTo99) - Central, yet calm Starbucks in Namba. Good for working/studying.
+* [Starbucks - Umeda Tsutaya](https://maps.app.goo.gl/29prBNr9izP7Hmvb6) - Starbucks inside a bookshop. Nice, focused atmosphere
 
 
 
