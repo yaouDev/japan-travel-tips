@@ -8,10 +8,6 @@ This is a guide for anyone who's travelling to Japan and is planning their trips
 
 If you visited any of the places listed in the guide, it'd be fun to know what you thought - please feel free to use the "issues" tab as a sort of review section.
 
-## Language, conduct, and culture
-
-Japanese people are often viewed as polite.
-
 ## August's credentials
 - Lived in Osaka, Japan for 1 year (yeah, weak I know but still)
 - Speaks fluent japanese
