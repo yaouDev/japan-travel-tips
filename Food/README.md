@@ -10,7 +10,7 @@ This is not necessarily a list of good japanese food, merely a collection of foo
 
 This is mostly a list of different food and drink which might be different from what exists in the West.
 
-Included here is a score from 1-5 on how badly you need to try these things (or avoid!). The score is based on deliciousness, uniqueness, and palette fatigue resistance (if you can eat it every day).
+Included here is a score from 1-5 on how badly you need to try these things (or avoid!). The score is based on deliciousness, uniqueness, and palate fatigue resistance (if you can eat it every day).
 
 ### Food/Meals
 
@@ -77,7 +77,7 @@ Some of these are scored "1-5" as the term is too generic to accurately give a s
 * Umeshu {5} - Plum wine, very sweet. Usually wine-strength (10-15%). Very good, and also a nice gift to bring back home.
 * Yuzushu {5} - Yuzu (citrus) wine, very sweet. Basically the same as umeshu but based on yuzu instead. Very good.
 * Nihonshu {1-5} - Fermented rice wine. This is what is usually denoted "sake" - which it technically is since it's alcohol. Just like normal wine there are a vast array if different production techniques and flavors. In winter it could be nice to order it "atsukan" - heated. [Read more about the varieties that influence flavor](https://en.wikipedia.org/wiki/Sake#Varieties)
-* Shouchuu {1-5} - Distilled spirit made from barely, sweet potato, rice, or similar. Not to be confused with korean soju or nihonshu/"sake".
+* Shouchuu {1-5} - Distilled spirit made from barley, sweet potato, rice, or similar. Not to be confused with korean soju or nihonshu/"sake".
 * Chuuhai {5} - "Shouchuu Highball"; soda water, flavoring, and shouchuu. Tastes like a western cider but with more varies flavors. Usually around 4,5% alcohol.
 * (Japanese) beer {1-5} - The Japanese mostly drink their own brands of beers, and the most popular ones are very light lagers. Arguably, Asahi, Kirin, and Sapporo are the most popular brands. Draft beer (nama/生) is most commonly Asahi or Asahi Super Dry (at least is Osaka), which August thinks tastes like sparkling water. Augusts' favorite brand is Yebisu (the "Y" is silent).
 * (Japanese) whisky {1-5} - The most common whisky in Japan is, of course, Japanese whisky. August is not very well versed in the differences here, but if you are, there's a lot to choose from. Note that blends are incredibly common so make sure to look for single-malt if you care about taste.
