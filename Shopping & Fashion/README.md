@@ -1,18 +1,18 @@
 # Fashion
 
-**Please be aware** that there are fundamental differences in physique between the West and the East - don't judge yourself based on their ideals.
+There are some differences in average clothing sizes and proportions between many Japanese brands and many Western brands. This is mostly a reflection of fashion-market norms, available sizing, and local consumer demand - try not to compare yourself harshly.
 
 ## Beauty Ideals
 
-Japanese people aim to be slender and pale. As a result most people cover all of their skin from the sun (even in summer), eat relatively small portions, and lifting weights is rare. In addition, the averge Japanese person tends to be shorter than Westerners. This all leads to clothing sizes being relatively small. 
+Contemporary beauty trends in Japan often emphasize fair skin and a slim silhouette. Sun protection (hats, UV umbrellas, long sleeves) is common, especially among women. While gym culture is growing, fashion tends to prioritize lean lines over visibly muscular builds. As a result, clothing in many stores skews toward smaller sizes compared with many Western retailers.
 
 For some reason, having a "small face" is also seen as attractive - you might be complimented on it.
 
-**If you're a larger person** do note that Japanese people might point out your size explicitly. Yes, it's rude but they don't seem to care. They will also comment on weight loss/gain.
+Comments about appearance; weight changes, height, etc. - may be more direct than some visitors are used to. This isn’t intended as rudeness; norms around commenting on physical traits differ by culture and generation. Don't be surprised if a Japanese person calls you fat - even if you're not!
 
 ## Clothing Sizes
 
-If you're a western medium, you're probably a japanese large, or even x-large - of course this can feel disappointing, especially since larger western sizes don't translate to something that exists in normal stores. Just remember that you are beautiful the way you are <3
+Japanese clothing sizes often run smaller than those in many Western countries. Someone who wears a medium in US/EU brands might find they need a large or XL in some Japanese stores. Larger sizes may be limited in stock, especially outside major cities.
 
 In general, the sizes are S, M, L, etc. even in button-down shirts/pants/suits - but it may vary.
 
@@ -23,22 +23,22 @@ In general, the sizes are S, M, L, etc. even in button-down shirts/pants/suits -
 Japanese shoe sizes are (kind of) measured in centimeters. Size 28 (EU 43) is usually the largest size most places carry.
 
 
-## Trends
+## Trends (Tendencies)
 
 In general, the color scheme is quite muted.
 
-* At work: a suit (women too) or uniform is worn - exceptions are rare.
-* Females: Flow-y, lace-y, and "feminine". Skirts and dresses are common. Showing any skin (even arms) is rare.
+* At work: a suit (women too) or uniform is worn - exceptions are rare (but vary by industry, of course).
+* Females: Flow-y, lace-y, and "feminine". Skirts and dresses are common. Modesty is norm in most places - revealing clothing is rare.
 * Males: Oversized shirts, silk button downs, "preppy". Usually planned, but casual.
 * Alternative: In general, really out there. Usually direct contrast to the conservative norm. Mostly in places like Harajuku.
 
 ## Tattoos
 
-Tattoos are mostly fine in an everyday setting, especially if you're a foreigner. The only real struggle will be to enter public baths (including at hotels/ryokan).
+Tattoos are mostly fine in an everyday setting, especially if you're a foreigner. The only real struggle will be to enter public baths (including at hotels/ryokan). 
 
 ## Glasses
 
-Japanese people tend to have really narrow nose bridges, as such, it's to be extremly difficult to even find a pair of glasses that fits if your nose bridge is even somewhat pronounced. As a caucasian I wouldn't expect to get new frames in Japan.
+Many Japanese eyewear brands design frames for slimmer nose bridges, which can make fit tricky for some visitors. Larger international chains (JINS, Zoff) carry a variety of fits, but if you rely on a specific style, consider bringing your preferred frames. **Don't** underestimate this point.
 
 ## Hair(dressing)
 
@@ -61,8 +61,8 @@ See the document "Secondhand.md".
 * Sunglasses are rare - lightly-tinted are "in", though.
 * Masks are sometimes worn as a fashion accessory or to hide a no-make up face.
 * Japanese people tend to not wear a scent.
-* Facial hair is uncommon.
-* Baldness is uncommon - usually the hair is trimmed to leave stubble, or if involontary - as a combover.
+* Facial hair is uncommon (in the workplace, might be more accepted in more eccentric/creative occupations).
+* Completely bald heads are uncommon - usually the hair is trimmed to leave stubble, or if involontary - as a combover (or similar).
 
 
 ## Related vocabulary

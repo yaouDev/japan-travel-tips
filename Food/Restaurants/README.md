@@ -2,7 +2,34 @@
 
 ## Typical Japanese Dining Experience
 
-NOTE: It's not uncommon for places (mostly izakaya) to charge a "table charge" (お通し代 (otoshidai)) of ~500 yen (sometimes per person). Usually, but not always, this will include an appetizer (so if you're served a small dish that you didn't order, this is probably it).
+### Dining Conventions
+
+* It's not uncommon for places (mostly izakaya) to charge a "table charge" (お通し代 (otoshidai)) of ~500 yen (sometimes per person). Usually, but not always, this will include an appetizer (so if you're served a small dish that you didn't order, this is probably it).
+* Some places, especially izakaya and in winter, will give you a small, warm towel (oshibori) before your meal which should be used to clean/warm your hands. Some use it on their face as well, but it's not the intended use. Usually it's free, but I've been charged for it before - even so it's more or less compulsory.
+* Paying is usually done at the register, not at the table (may vary!).
+* Tipping is not very common - it might even confuse the poor staff.
+* As most places - card-acceptance may vary. Bring cash.
+* Ramen/sushi/counter seated shops tend to have a high turnover rate in customer visits. You get your food quickly, eat quickly, then leave quickly.
+* Menus tend to be skewed to the current season. If you visited in spring last time and are visiting in autumn now; many of the dishes that were available previously will be missing.
+
+### Being Seated & Ordering
+
+You'll be seated at your table and then the staff will leave you alone until you ask "sumimasen", raise your hand, or press a button. The staff won't hover at your table (as is norm).
+
+The ways you order can differ greatly between establishments:
+
+* Through a conventional menu
+* Through a vending machine which you then offer to the staff
+* Through a digital tablet
+* Through a conventional menu, and you write numbers/dish names on a piece of paper and hand to the staff
+
+### Queuing
+
+In general, long queues are seen as indications that the restaurant is good. If there is a restaurant with no guests and a restaurant with a one hour queue, there is a tendency to choose to join the queue.
+
+* Queues can be *very* long
+* Some places offer solutions where you can write your name (and numer of guests) on a paper list or on an app, and they'll call your name out when it's your turn. Note that your name might not sound the same in Japanese and your native language.
+
 
 ### Restaurant
 
@@ -22,7 +49,7 @@ Spices and sauces available at the table will typically be salt, soy, and shichi
 
 Food is ordered to be shared among all of you, typically everyone starts with a draft beer and edamame (you don't have to, obviously). Menu items are mostly meant to complement alcoholic beverages but treating it like a dinner works just fine, although it will be more expensive to get full. Dishes are typically tapas-sized (i.e., relatively small).
 
-
+Note that some izakaya will allow smoking. Usually there are seperate seating for smoking/non-smoking.
 
 ## Eating Etiquette
 
@@ -30,7 +57,7 @@ Note that breaking etiquette is fine, but at least be aware that you are.
 
 ### General conduct
 
-* Leaving food left over is heavily frowned upon - especially at all-you-can-eat places like yakiniku restaurants (you may be asked for additional payment if you do)
+* Leaving food left over is heavily frowned upon - especially at all-you-can-eat places like yakiniku restaurants (you may be asked for additional payment if you do).
 
 
 
@@ -70,7 +97,7 @@ Every link will be to Google Maps.
 
 ### Restaurant description
 
-The description of each restaurant is written to be as consice as possible.
+The description of each restaurant is written to be as concise as possible.
 
 
 
@@ -78,7 +105,7 @@ The description of each restaurant is written to be as consice as possible.
 
 The ratings system is as follows;
 
-There is a star system of 0 - 3 stars (star = \*). Being awarded an August-star is of the same significance as getting a Michelin-star, so while making the list means the restaurant is good, a starred restaurant is truly great. There is no concrete framwork as to what needs to be fulfilled in order to receive an August-star, it is determined completely by intuition, though, that may be based on food quality, atmosphere, pricing, service, etc. August's sensory ability to feel *"vibes"* is impeccable. As each entry is followed by a short description, you are urged to read each entry in full.
+There is a star system of 0 - 3 stars (star = \*). Being awarded an August-star is of the same significance as getting a Michelin-star, so while making the list means the restaurant is good, a starred restaurant is truly great. There is no concrete framework as to what needs to be fulfilled in order to receive an August-star, it is determined completely by intuition, though, that may be based on food quality, atmosphere, pricing, service, etc. August's sensory ability to feel *"vibes"* is impeccable. As each entry is followed by a short description, you are urged to read each entry in full.
 
 That said, restaurants on the list are **NOT** just places I've tried - they're places I've tried *and* found worthy enough to recommend to people.
 
@@ -98,7 +125,7 @@ Some restaurants, especially traditional & izakaya, will have most of their menu
 
 ## Related vocabulary (not direct translations!)
 
-* 何名様? (nan mei sama (desu ka/deshou ka)) - How many dining guests are you? { I'd recommend showing the number on your fingers }
+* 何名様? (nan mei sama (desu ka/deshou ka)) - How many dining guests are you? { Usually asked by staff when you walk in - I'd recommend showing the number on your fingers }
 * おすすめは？ (osusume wa?) - What do you recommend? { Say this if you are unsure on what to order }
 * どうぞ (douzo) - There you go { When giving/serving something }
 * ごゆっくり(どうぞ) (goyukkuri (douzo)) - Take your time/"feel free to relax" {  }
@@ -110,13 +137,13 @@ Some restaurants, especially traditional & izakaya, will have most of their menu
 * 定食 (teishoku) - set meal (or daily special)
 * 持ち帰り (mochikaeri) - take-away
 * 店内 (tennai) - for here { lit. inside store }
-* 食堂　(shokudou) - dinner room / cafeteria / eatery
+* 食堂　(shokudou) - dining hall / cafeteria / eatery
 * 喫茶店 (kissaten) - café / tearoom / coffee shop { usu. traditional }
-* ベジタリアン (bejitarian) - vegetarian { from english }
-* ヴィーガン/ビーガン (viigan/biigan) - vegan { from english }
+* ベジタリアン (bejitarian) - vegetarian { from english - you might still have to clarify (e.g., no fish) }
+* ヴィーガン/ビーガン (viigan/biigan) - vegan { from english - you might still have to clarify (e.g., no fish) }
 * 肉 (niku) - meat | 豚肉 (buta-niku) = pork　| 牛肉 (gyuu-niku) = beef　| 鶏肉 (tori-niku) = chicken
 * グルテンフリー (gurutenfurii) - glutenfree { from english }
-* お任せ (omakase) - chefs' choice { usu. to indicate an extensive set menu, but can be used as to answer, e.g., "how would you like your steak?" }
+* お任せ (omakase) - chefs' choice { usu. to indicate an extensive set menu, but can be used as to answer serving choices (such as sushi assortment or wine pairing) }
 * ありがとうございます (arigatougozaimasu) - Thank you { You may already know "arigatou", though, the formal phrase includes "gozaimasu" as well }
 * これ (kore) - This { You can say this and point at the menu, possibly in combination with showing an amount on your fingers }
 * これは何ですか？ (kore wa nan desu ka?) - What is this? | この料理は何と呼ばれています？ (kono ryouri wa nan to yobareteimasuka?) - What is this dish called? { The first example is more generic and easy to remember }
@@ -130,4 +157,9 @@ Some restaurants, especially traditional & izakaya, will have most of their menu
 * ソーダ割り (soodawari) - mixed with soda water { of liquor } 
 * 炭酸水 (tansansui) - sparkling water
 * お会計 (okaikei) - check / bill { for when you want to pay for your meal }
+* アレルギー (arerugii) - allergy { arerugii ga arimasu (= I have an allergy) }
+* 付き (tsuki) - with { used as a suffix to include an item (e.g., negi tsuki = with spring onion) }
+* 抜き (nuki) - without { used as a suffix to exclude an item (e.g., negi nuki = without spring onion) }
+* 禁煙席 (kinenseki) - non-smoking seat { /section }
+* 喫煙席 (kitsuenseki) - smoking seat { /section }
 

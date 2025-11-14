@@ -1,5 +1,9 @@
 # Vocabulary
 
+* Hiragana = the standard japanese alphabet
+* Katakana = the alphabet used for foreign words (similar to hiragana)
+* Kanji = symbolic characters with inherent meaning, similar to chinese characters. (extreme variation, 10,000+)
+
 ## What To Learn
 
 My top recommendation is to learn katakana - the borrowed-word alphabet. If you pronouce English words through the alphabet, the Japanese will understand you perfectly. It might feel "racist", but it's not. Ordering a coffee can prove difficult, it will be easier to order a "koohii". Even if the common word for something isn't derived from English you'll be able to communicate with English nouns this way.
